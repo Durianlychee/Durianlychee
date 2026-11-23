@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="24" viewBox="0 0 800 24" role="img" aria-label="">
+<line x1="0" y1="11.5" x2="384" y2="11.5" stroke="#CFC6B2"/>
+<line x1="416" y1="11.5" x2="800" y2="11.5" stroke="#CFC6B2"/>
+<rect x="396" y="8" width="8" height="8" transform="rotate(45 400 12)" fill="#8C2F39"/>
+</svg>
