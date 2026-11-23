@@ -45,7 +45,7 @@ I'm a data analyst based in Kuala Lumpur, Malaysia, with a BSc in Mathematics an
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
-  <img src="assets/toolbox-light.svg" alt="Toolbox: Python, SQL, Power BI, Pandas, scikit-learn, DAX, Excel, TypeScript, Astro">
+  <img src="assets/toolbox-light.svg" alt="Toolbox: Python, SQL, Power BI, Pandas, scikit-learn, DAX, Excel, TypeScript, Astro, n8n, Docker, FastAPI">
 </picture>
 
 </div>
