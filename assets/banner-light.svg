@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280" role="img" aria-label="Khili - Data scientist with a statistician's eye.">
+<title>Khili - Data scientist with a statistician's eye.</title>
+<style>
+text{font-family:Georgia, 'Times New Roman', 'Liberation Serif', serif}
+.kick{font-size:13px;letter-spacing:.22em;fill:#8C2F39}
+.name{font-size:76px;font-weight:700;fill:#1B2A41;letter-spacing:-.01em}
+.tag{font-size:21px;font-style:italic;fill:#1B2A41}
+.sub{font-size:13.5px;fill:#5B6270}
+.axis{stroke:#5B6270;stroke-width:1.2;fill:none}
+.lbl{font-size:13px;font-style:italic;fill:#5B6270}
+.bar{fill:#BFC9DA;transform-box:fill-box;transform-origin:50% 100%;animation:bar 12s ease-in-out infinite both}
+.curve{fill:none;stroke:#8C2F39;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1 1;animation:draw 12s ease-in-out infinite both}
+.area{fill:#8C2F39;fill-opacity:.14;animation:fade 12s ease-in-out infinite both}
+.mean{stroke:#8C2F39;stroke-width:1.3;stroke-dasharray:4 4;animation:fade 12s ease-in-out infinite both}
+.dot{animation:fade 12s ease-in-out infinite both}
+.reveal{transform-box:fill-box;transform-origin:0 50%;animation:type 12s infinite both}
+.tagwrap{animation:hold 12s ease-in-out infinite both}
+.caret{fill:#8C2F39;animation:caret 12s infinite both}
+.rise{animation:rise 1.2s ease-out both}
+@keyframes bar{0%{opacity:0;transform:scaleY(.04)}4%{opacity:1}22%{transform:scaleY(1)}90%{opacity:1;transform:scaleY(1)}97%,100%{opacity:0;transform:scaleY(1)}}
+@keyframes draw{0%,10%{stroke-dashoffset:1;opacity:1}34%{stroke-dashoffset:0}90%{stroke-dashoffset:0;opacity:1}97%,100%{stroke-dashoffset:0;opacity:0}}
+@keyframes fade{0%,28%{opacity:0}38%{opacity:1}90%{opacity:1}97%,100%{opacity:0}}
+@keyframes type{0%{transform:scaleX(0)}4%{transform:scaleX(0);animation-timing-function:steps(41,end)}28%,100%{transform:scaleX(1)}}
+@keyframes hold{0%,2%{opacity:1}90%{opacity:1}97%,100%{opacity:0}}
+@keyframes caret{0%,3%{opacity:0;transform:translateX(0)}4%{opacity:1;transform:translateX(0);animation-timing-function:steps(41,end)}28%{opacity:1;transform:translateX(380px)}36%{opacity:0}44%{opacity:1}52%{opacity:0}60%{opacity:1}68%{opacity:0}76%{opacity:1}84%{opacity:0}89%,100%{opacity:0;transform:translateX(380px)}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.d1{animation-delay:.05s}.d2{animation-delay:.2s}.d3{animation-delay:.5s}
+@media (prefers-reduced-motion:reduce){*{animation:none !important}.caret{display:none}}
+</style>
+<defs><clipPath id="c"><rect class="reveal" x="40" y="154" width="380" height="34"/></clipPath></defs>
+<rect x=".5" y=".5" width="799" height="279" rx="10" fill="#FBF7EE" stroke="#D9CFB8"/>
+<path d="M20 0V280M40 0V280M60 0V280M80 0V280M100 0V280M120 0V280M140 0V280M160 0V280M180 0V280M200 0V280M220 0V280M240 0V280M260 0V280M280 0V280M300 0V280M320 0V280M340 0V280M360 0V280M380 0V280M400 0V280M420 0V280M440 0V280M460 0V280M480 0V280M500 0V280M520 0V280M540 0V280M560 0V280M580 0V280M600 0V280M620 0V280M640 0V280M660 0V280M680 0V280M700 0V280M720 0V280M740 0V280M760 0V280M780 0V280M0 20H800M0 40H800M0 60H800M0 80H800M0 100H800M0 120H800M0 140H800M0 160H800M0 180H800M0 200H800M0 220H800M0 240H800M0 260H800" stroke="#EFE7D3" stroke-width="1" fill="none"/>
+<rect x="40" y="42" width="44" height="3" fill="#8C2F39" class="rise d1"/>
+<text class="kick rise d1" x="40" y="74">DATA SCIENCE &#183; STATISTICS</text>
+<text class="name rise d2" x="36" y="142">Khili</text>
+<g class="tagwrap"><g clip-path="url(#c)"><text class="tag" x="40" y="178" textLength="380" lengthAdjust="spacingAndGlyphs">Data scientist with a statistician&#8217;s eye.</text></g>
+<rect class="caret" x="41" y="158" width="2" height="26"/></g>
+<text class="sub rise d3" x="40" y="228">BSc Mathematics and Statistics, University of Leeds</text>
+<text class="sub rise d3" x="40" y="248">Kuala Lumpur, Malaysia</text>
+<g>
+<line class="axis" x1="460" y1="214" x2="760" y2="214"/>
+<line class="axis" x1="460" y1="214" x2="460" y2="48"/>
+<rect class="bar" style="animation-delay:0.00s" x="472.0" y="207.4" width="17.5" height="6.6" rx="1.5"/><rect class="bar" style="animation-delay:0.05s" x="493.5" y="206.2" width="17.5" height="7.8" rx="1.5"/><rect class="bar" style="animation-delay:0.10s" x="515.1" y="183.7" width="17.5" height="30.3" rx="1.5"/><rect class="bar" style="animation-delay:0.15s" x="536.6" y="163.7" width="17.5" height="50.3" rx="1.5"/><rect class="bar" style="animation-delay:0.20s" x="558.2" y="126.7" width="17.5" height="87.3" rx="1.5"/><rect class="bar" style="animation-delay:0.25s" x="579.7" y="108.2" width="17.5" height="105.8" rx="1.5"/><rect class="bar" style="animation-delay:0.30s" x="601.2" y="92.8" width="17.5" height="121.2" rx="1.5"/><rect class="bar" style="animation-delay:0.35s" x="622.8" y="109.8" width="17.5" height="104.2" rx="1.5"/><rect class="bar" style="animation-delay:0.40s" x="644.3" y="127.5" width="17.5" height="86.5" rx="1.5"/><rect class="bar" style="animation-delay:0.45s" x="665.8" y="164.5" width="17.5" height="49.5" rx="1.5"/><rect class="bar" style="animation-delay:0.50s" x="687.4" y="183.7" width="17.5" height="30.3" rx="1.5"/><rect class="bar" style="animation-delay:0.55s" x="708.9" y="203.8" width="17.5" height="10.2" rx="1.5"/><rect class="bar" style="animation-delay:0.60s" x="730.5" y="207.4" width="17.5" height="6.6" rx="1.5"/>
+<path class="area" d="M470 211.4 L474 210.8 L478 210.0 L482 209.1 L486 208.0 L490 206.7 L494 205.2 L498 203.4 L502 201.4 L506 199.1 L510 196.4 L514 193.4 L518 190.1 L522 186.4 L526 182.3 L530 177.9 L534 173.1 L538 167.9 L542 162.4 L546 156.7 L550 150.7 L554 144.6 L558 138.3 L562 132.0 L566 125.7 L570 119.6 L574 113.7 L578 108.1 L582 102.9 L586 98.1 L590 94.0 L594 90.5 L598 87.7 L602 85.7 L606 84.4 L610 84.0 L614 84.4 L618 85.7 L622 87.7 L626 90.5 L630 94.0 L634 98.1 L638 102.9 L642 108.1 L646 113.7 L650 119.6 L654 125.7 L658 132.0 L662 138.3 L666 144.6 L670 150.7 L674 156.7 L678 162.4 L682 167.9 L686 173.1 L690 177.9 L694 182.3 L698 186.4 L702 190.1 L706 193.4 L710 196.4 L714 199.1 L718 201.4 L722 203.4 L726 205.2 L730 206.7 L734 208.0 L738 209.1 L742 210.0 L746 210.8 L750 211.4 L750 214 L470 214 Z"/>
+<path class="curve" pathLength="1" d="M470 211.4 L474 210.8 L478 210.0 L482 209.1 L486 208.0 L490 206.7 L494 205.2 L498 203.4 L502 201.4 L506 199.1 L510 196.4 L514 193.4 L518 190.1 L522 186.4 L526 182.3 L530 177.9 L534 173.1 L538 167.9 L542 162.4 L546 156.7 L550 150.7 L554 144.6 L558 138.3 L562 132.0 L566 125.7 L570 119.6 L574 113.7 L578 108.1 L582 102.9 L586 98.1 L590 94.0 L594 90.5 L598 87.7 L602 85.7 L606 84.4 L610 84.0 L614 84.4 L618 85.7 L622 87.7 L626 90.5 L630 94.0 L634 98.1 L638 102.9 L642 108.1 L646 113.7 L650 119.6 L654 125.7 L658 132.0 L662 138.3 L666 144.6 L670 150.7 L674 156.7 L678 162.4 L682 167.9 L686 173.1 L690 177.9 L694 182.3 L698 186.4 L702 190.1 L706 193.4 L710 196.4 L714 199.1 L718 201.4 L722 203.4 L726 205.2 L730 206.7 L734 208.0 L738 209.1 L742 210.0 L746 210.8 L750 211.4"/>
+<line class="mean" x1="610" y1="76" x2="610" y2="214"/>
+<circle class="dot" fill="#8C2F39" cx="610" cy="84" r="4"/>
+<text class="lbl dot" x="620" y="78">&#956;</text>
+</g>
+</svg>

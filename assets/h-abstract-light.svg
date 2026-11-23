@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="46" viewBox="0 0 800 46" role="img" aria-label="Abstract">
+<title>Abstract</title>
+<style>
+text{font-family:Georgia, 'Times New Roman', 'Liberation Serif', serif}
+.n{font-size:17px;fill:#8C2F39;font-style:italic}
+.h{font-size:25px;fill:#1B2A41;font-weight:700;letter-spacing:.01em}
+.tick{transform-box:fill-box;transform-origin:0 50%;animation:grow 1.2s ease-out both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none !important}}
+</style>
+
+<text class="h" x="2" y="31">Abstract</text>
+<line x1="0" y1="41.5" x2="800" y2="41.5" stroke="#CFC6B2" stroke-width="1"/>
+<rect class="tick" x="0" y="40" width="64" height="3" fill="#8C2F39"/>
+</svg>
