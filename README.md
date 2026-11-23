@@ -34,7 +34,8 @@ I'm a data analyst based in Kuala Lumpur, Malaysia, with a BSc in Mathematics an
 
 ## Contact
 
-Get in touch via the [contact page](https://personal-website-khili.vercel.app/contact) on my website.
+- [Contact page](https://personal-website-khili.vercel.app/contact) on my website
+- [LinkedIn](https://www.linkedin.com/in/addakhili-ibrahim)
 
 ---
 
